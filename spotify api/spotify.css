@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.songsdiv {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px; /* Space between items */
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
